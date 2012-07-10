@@ -72,7 +72,6 @@ THE POSSIBILITY OF SUCH DAMAGE.
             <xsd:restriction base="xsd:string">
                 <xsd:enumeration value="callback" />
                 <xsd:enumeration value="extension" />
-                <xsd:enumeration value="enumeration" />
                 <xsd:enumeration value="const" />
                 <xsd:enumeration value="readonly" />
                 <xsd:enumeration value="internal" />
